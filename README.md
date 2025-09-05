@@ -13,10 +13,5 @@ Built with C# and .NET, this app allows you to manage scores, team names, and lo
 ## Appearance
 ![Appearance](images/ScoreBoard.jpg)
 
-## How to Use
-1. Download the latest release from [Releases](../../releases).
-2. Run the `VolleyballScoreboard.exe` file.
-3. Input team names, logos, and update scores during the match.
-
 ## License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
